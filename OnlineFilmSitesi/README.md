@@ -2,7 +2,7 @@
 Patika.dev OOP Ödevi
 ![UML Example](./uml-example4.png)
 
-###Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
+### Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 
 - Uygulamada filmler listenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir.
 - Kullanıcılar abonelik için sistem üzerinden kredi satın alır.
